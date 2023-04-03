@@ -10,7 +10,7 @@ Full-stack implementation and exposition of an API that quantifies the similarit
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6Za30l83co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo Video link](https://img.youtube.com/vi/M6Za30l83co/maxresdefault.jpg)](https://www.youtube.com/watch?v=M6Za30l83co)
 
 ## Features
 
