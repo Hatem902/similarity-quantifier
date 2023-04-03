@@ -4,11 +4,11 @@
 
 Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of some of OpenAI's utilities. This API service website includes authentication and **a complete API key system** nicely exposed through a dashboard to create & revoke user keys as well as monitor every request alongside its API key.
 
-## Tech
+## Stack
 
 - Next.js 13, Tailwind CSS, Radix UI primitives, TypeScript, PlanetScale, Prisma, Upstash & NextAuth.js
 
-## Demo Video
+## [Demo Video](https://youtu.be/M6Za30l83co)
 
 [![Demo Video link](https://img.youtube.com/vi/M6Za30l83co/maxresdefault.jpg)](https://www.youtube.com/watch?v=M6Za30l83co)
 
