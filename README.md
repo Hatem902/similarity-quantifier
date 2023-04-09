@@ -1,8 +1,8 @@
 ## [This app is live on the web](https://similarity-quantifier.vercel.app/)
 
-## Similarity API w/ Next.js 13.2
+## Text Similarity API w/ Next.js 13.2
 
-Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of some of OpenAI's utilities. This API service website includes authentication and **a complete API key system** nicely exposed through a dashboard to create & revoke user keys as well as monitor every request alongside its API key.
+Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of some of OpenAI's utilities. This API service website includes authentication and a <mark >**complete API key system**</mark> nicely exposed through a dashboard to create and revoke user keys as well as monitor every request alongside its API key.
 
 ## Stack
 
