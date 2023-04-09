@@ -2,7 +2,7 @@
 
 ## Text Similarity API w/ Next.js 13.2
 
-Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of some of OpenAI's utilities. This API service website includes authentication and a <mark >**complete API key system**</mark> nicely exposed through a dashboard to create and revoke user keys as well as monitor every request alongside its API key.
+Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of OpenAI's utilities.This API service website includes authentication and a <mark>comprehensive API key system</mark>, which is conveniently exposed through a dashboard. It allows users to create and revoke their keys, as well as monitor every request alongside its corresponding API key.
 
 ## Stack
 
