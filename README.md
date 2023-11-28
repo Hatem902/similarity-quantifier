@@ -1,6 +1,7 @@
 ## [Text Similarity API w/ Next.js 13.2](https://similarity-quantifier.vercel.app/)
 
-Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of OpenAI's utilities.This API service website includes authentication and a <mark>comprehensive API key system</mark>, which is conveniently exposed through a dashboard. It allows users to create and revoke their keys, as well as monitor every request alongside its corresponding API key.
+- Implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of OpenAI's utilities.
+- A **<mark>comprehensive API key system</mark>**, which is conveniently exposed through a dashboard. It allows users to create and revoke their keys, as well as monitor every request alongside its corresponding API key.
 
 ## Stack
 
@@ -24,29 +25,11 @@ Full-stack implementation and exposition of an API that quantifies the similarit
 
 - Protection of sensitive routes
 
-- Google authentication
-
-- Typescript
-
 - A complete API key system to create & revoke user keys
-
-- Super fast Planetscale database
-
-- Tailwind CSS
-
-- Fonts with next/font
-
-- Beautiful dark mode with next-themes
-
-- Class merging with taiwind-merge
-
-- Conditional classes with clsx
-
-- Variants with class-variance-authority
 
 ## Acknowledgements
 
-- [Awesome UI Components](https://ui.shadcn.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
 
 - Josh Founder of WordfulAI
 
