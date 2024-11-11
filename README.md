@@ -1,54 +1,33 @@
-## [This app is live on the web](https://similarity-quantifier.vercel.app/)
+## [Text Similarity API with a comprehensive API key system](https://similarity-quantifier.vercel.app/)
 
-## Similarity API w/ Next.js 13.2
+- Implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of OpenAI's utilities.
+- A **<mark>comprehensive API key system</mark>**, which is conveniently exposed through a dashboard. It allows users to create and revoke their keys, as well as monitor every request alongside its corresponding API key.
 
-Full-stack implementation and exposition of an API that quantifies the similarity between two pieces of text through making use of some of OpenAI's utilities. This API service website includes authentication and **a complete API key system** nicely exposed through a dashboard to create & revoke user keys as well as monitor every request alongside its API key.
+## Stack
 
-## Tech
+- Next.js, TypeScript, unopinionated Radix UI primitives, Tailwind CSS, Upstash, NextAuth
 
-- Next.js 13, Tailwind CSS, Radix UI primitives, TypeScript, PlanetScale, Prisma, Upstash & NextAuth.js
+## [Demo Video](https://youtu.be/M6Za30l83co)
 
-## Demo Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6Za30l83co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo Video link](https://img.youtube.com/vi/M6Za30l83co/maxresdefault.jpg)](https://www.youtube.com/watch?v=M6Za30l83co)
 
 ## Features
 
-- Radix UI Primitives
+- Next.js Client & Server Components
 
-- Next.js 13 Client & Server Components
+- Next.js Layouts and Routing with the App directory
 
-- Next.js 13 Async Components
-
-- Next.js 13 Layouts and Routing with the App directory
+- Unopinionated Radix UI Primitives
 
 - Rate Limited API routes
 
 - Protection of sensitive routes
 
-- Google authentication
-
-- Typescript
-
 - A complete API key system to create & revoke user keys
-
-- Super fast Planetscale database
-
-- Tailwind CSS
-
-- Fonts with next/font
-
-- Beautiful dark mode with next-themes
-
-- Class merging with taiwind-merge
-
-- Conditional classes with clsx
-
-- Variants with class-variance-authority
 
 ## Acknowledgements
 
-- [Awesome UI Components](https://ui.shadcn.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
 
 - Josh Founder of WordfulAI
 
